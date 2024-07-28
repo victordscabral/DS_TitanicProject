@@ -4,7 +4,7 @@ Projeto para estudos de Data Science utilizando Python.
 
 ## Sobre 
 
-Este projeto tem como objetivo analisar os dados do Titanic utilizando bibliotecas populares de Data Science em Python: Pandas, Numpy e Matplotlib. O dataset utilizado é o famoso Titanic dataset, contendo informações sobre os passageiros, como se sobreviveram ou não, classe do passageiro, nome, sexo e idade. 
+Este projeto tem como objetivo analisar os dados do Titanic utilizando de Data Science em Python e biblioteca pandas. O dataset utilizado é o famoso Titanic dataset, contendo informações sobre os passageiros, como se sobreviveram ou não, classe do passageiro, nome, sexo e idade. 
 
 ## Dataset
 
