@@ -27,7 +27,6 @@ O dataset `titanic.csv` possui as seguintes colunas:
 ## Screenshots
 
 ![](assets/img1.jpg)
-![](assets/img2.jpg)
 
 ## Passos para Instalação
 
